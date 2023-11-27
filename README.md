@@ -1,16 +1,17 @@
-### Hi there 👋
+# ¡Bienvenido/a a mi perfil de GitHub! 👋
 
-<!--
-**askor222/askor222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un desarrollador front-end profesional. He participado en múltiples proyectos, tanto de forma individual como en equipo, y me encanta ver un trabajo bien hecho.
 
-Here are some ideas to get you started:
+## Acerca de mí
+- 🚀 Actualmente estoy trabajando en proyectos personales, para seguir mejorando mis habilidades.
+- 🌱 Siempre estoy aprendiendo y disfruto explorando nuevas tecnologías y enfoques.
+- 💡 Me gusta colaborar en proyectos de código abierto y aprender de la comunidad.
+- 📫 También puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/kibria-ali/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- 💻 Desarrollo web: HTML, CSS, JavaScript.
+- 🚀 Tecnologías: React.
+- 🛠️ Herramientas: Git, VSCode, etc.
+
+## Proyectos Destacados
+- [Tienda E-commerce]: un proyecto grupal hecho con mis compañeros.
